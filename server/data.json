@@ -1,0 +1,484 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/400?img=1",
+      "bio": "Hey! I'm Aarav. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/400?img=2",
+      "bio": "Hey! I'm Priya. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 3,
+      "name": "Rohan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/400?img=3",
+      "bio": "Hey! I'm Rohan. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 4,
+      "name": "Ananya",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/400?img=4",
+      "bio": "Hey! I'm Ananya. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 5,
+      "name": "Kabir",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/400?img=5",
+      "bio": "Hey! I'm Kabir. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 6,
+      "name": "Isha",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/400?img=6",
+      "bio": "Hey! I'm Isha. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 7,
+      "name": "Aditya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/400?img=7",
+      "bio": "Hey! I'm Aditya. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 8,
+      "name": "Meera",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/400?img=8",
+      "bio": "Hey! I'm Meera. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 9,
+      "name": "Arjun",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/400?img=9",
+      "bio": "Hey! I'm Arjun. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 10,
+      "name": "Diya",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/400?img=10",
+      "bio": "Hey! I'm Diya. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 11,
+      "name": "Vihaan",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/400?img=11",
+      "bio": "Hey! I'm Vihaan. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 12,
+      "name": "Sara",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/400?img=12",
+      "bio": "Hey! I'm Sara. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 13,
+      "name": "Reyansh",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/400?img=13",
+      "bio": "Hey! I'm Reyansh. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 14,
+      "name": "Aanya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/400?img=14",
+      "bio": "Hey! I'm Aanya. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 15,
+      "name": "Dev",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/400?img=15",
+      "bio": "Hey! I'm Dev. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 16,
+      "name": "Kiara",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/400?img=16",
+      "bio": "Hey! I'm Kiara. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 17,
+      "name": "Krish",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/400?img=17",
+      "bio": "Hey! I'm Krish. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 18,
+      "name": "Nisha",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/400?img=18",
+      "bio": "Hey! I'm Nisha. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 19,
+      "name": "Rahul",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/400?img=19",
+      "bio": "Hey! I'm Rahul. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 20,
+      "name": "Tara",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/400?img=20",
+      "bio": "Hey! I'm Tara. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 21,
+      "name": "Vivaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/400?img=21",
+      "bio": "Hey! I'm Vivaan. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 22,
+      "name": "Myra",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/400?img=22",
+      "bio": "Hey! I'm Myra. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 23,
+      "name": "Kunal",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/400?img=23",
+      "bio": "Hey! I'm Kunal. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": true
+    },
+    {
+      "id": 24,
+      "name": "Riya",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/400?img=24",
+      "bio": "Hey! I'm Riya. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 25,
+      "name": "Ishaan",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/400?img=25",
+      "bio": "Hey! I'm Ishaan. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 26,
+      "name": "Sana",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/400?img=26",
+      "bio": "Hey! I'm Sana. Love exploring new places and meeting people.",
+      "city": "Gurgaon",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 27,
+      "name": "Manav",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/400?img=27",
+      "bio": "Hey! I'm Manav. Love exploring new places and meeting people.",
+      "city": "Delhi",
+      "college": "IP University",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 28,
+      "name": "Aditi",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/400?img=28",
+      "bio": "Hey! I'm Aditi. Love exploring new places and meeting people.",
+      "city": "Noida",
+      "college": "IIT Delhi",
+      "interests": [
+        "Music",
+        "Travel"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 29,
+      "name": "Yash",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/400?img=29",
+      "bio": "Hey! I'm Yash. Love exploring new places and meeting people.",
+      "city": "Mumbai",
+      "college": "DU",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies"
+      ],
+      "likesUser": false
+    },
+    {
+      "id": 30,
+      "name": "Pooja",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/400?img=30",
+      "bio": "Hey! I'm Pooja. Love exploring new places and meeting people.",
+      "city": "Bangalore",
+      "college": "Amity",
+      "interests": [
+        "Music",
+        "Travel",
+        "Movies",
+        "Technology"
+      ],
+      "likesUser": false
+    }
+  ],
+  "swipes": [
+    {
+      "profileId": 2,
+      "action": "like",
+      "createdAt": "2026-11-20T04:57:33.231Z"
+    },
+    {
+      "profileId": 1,
+      "action": "like",
+      "createdAt": "2026-11-20T05:24:22.360Z"
+    },
+    {
+      "profileId": 3,
+      "action": "pass",
+      "createdAt": "2026-11-20T05:24:25.773Z"
+    },
+    {
+      "profileId": 4,
+      "action": "pass",
+      "createdAt": "2026-11-20T05:24:28.300Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": 2,
+      "name": "Priya",
+      "photo": "https://i.pravatar.cc/400?img=2",
+      "matchedAt": "2026-11-20T04:57:33.233Z"
+    }
+  ]
+}
